@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dgroza\\OneDrive - ENDAVA\\Desktop\\DiaGroza\\CSharp\\Homework3\\Homework3.csproj",
-      "projectName": "Homework3",
-      "projectPath": "C:\\Users\\dgroza\\OneDrive - ENDAVA\\Desktop\\DiaGroza\\CSharp\\Homework3\\Homework3.csproj",
+      "projectUniqueName": "C:\\Users\\dgroza\\source\\repos\\Homework_3\\Homework_3\\Homework_3.csproj",
+      "projectName": "Homework_3",
+      "projectPath": "C:\\Users\\dgroza\\source\\repos\\Homework_3\\Homework_3\\Homework_3.csproj",
       "packagesPath": "C:\\Users\\dgroza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dgroza\\OneDrive - ENDAVA\\Desktop\\DiaGroza\\CSharp\\Homework3\\obj\\",
+      "outputPath": "C:\\Users\\dgroza\\source\\repos\\Homework_3\\Homework_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dgroza\\AppData\\Roaming\\NuGet\\NuGet.Config",
