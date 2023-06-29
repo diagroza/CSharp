@@ -16,6 +16,7 @@ namespace WebAPI1.Controllers
             {
 
             }
+        //New restaurant method
         [HttpPost]
         public async Task<IActionResult> CreateRestaurant([FromBody] Restaurant restaurant)
         {
@@ -24,6 +25,8 @@ namespace WebAPI1.Controllers
 
             return CreatedAtAction(nameof(CreateRestaurant), new { id = restaurant.Id }, restaurant);
         }
+
+        
     }
     
 
